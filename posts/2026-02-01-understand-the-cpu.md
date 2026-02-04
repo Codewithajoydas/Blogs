@@ -5,7 +5,7 @@ date: "2026-02-01"
 category: "System Fundamentals"
 tags: ["CPU", "Architecture", "Low Level"]
 readingTime: "8 min"
-coverImage: "cpu.png"
+coverImage: "/images/cpu.png"
 ---
 
 High-level languages lie by omission.
